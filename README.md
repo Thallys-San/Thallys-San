@@ -6,7 +6,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
 
 <p align="left">
     </a>
-    <a href="https://github.com/Ryan3103?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Thallys-San?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
