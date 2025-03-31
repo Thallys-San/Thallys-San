@@ -41,5 +41,3 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
     src="https://github-readme-stats.vercel.app/api?username=Thallys-San&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 </p>
-
-[Meu GitHub](https://github.com/Thallys-San/Thallys-San/tree/main)
