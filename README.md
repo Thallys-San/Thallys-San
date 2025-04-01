@@ -3,21 +3,7 @@
 **`Desenvolvedor de sistemas`**
 
 Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualmente estou cursando desenvolvimento de sistemas no Senai.
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@Thallys_San">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+<p align="left"> 
     <a href="https://github.com/Thallys-San?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
