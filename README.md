@@ -7,20 +7,6 @@
   Atualmente estou cursando desenvolvimento de sistemas no Senai.
 </p>
 
-<script>
-  const text = document.querySelector("p");
-  let index = 0;
-  
-  function typeText() {
-    text.innerHTML = text.textContent.slice(0, index++) + "|";
-    if (index <= text.textContent.length) {
-      setTimeout(typeText, 100);
-    }
-  }
-
-  typeText();
-</script>
-
 <p align="left"> 
     <!-- GitHub Seguidores -->
     <a href="https://github.com/Thallys-San?tab=followers">
