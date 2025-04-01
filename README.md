@@ -4,13 +4,6 @@
 
 Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualmente estou cursando desenvolvimento de sistemas no Senai.
 <p align="left"> 
-    <a href="https://github.com/Thallys-San?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Thallys-San?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/Thallys-San?tab=followers">
         <img 
             alt="Seguidores" 
