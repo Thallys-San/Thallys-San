@@ -43,7 +43,9 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
 
 ### 📊 Estatísticas
 
-<table>
+### 📊 Estatísticas
+
+<table border="0">
   <tr>
     <td>
       <img
@@ -61,6 +63,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
     </td>
   </tr>
 </table>
+
 
     
 </p>
