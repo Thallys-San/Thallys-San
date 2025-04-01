@@ -85,7 +85,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
         title="Java" 
         width="40px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"       
     />
     <!-- SQL -->
     <img 
