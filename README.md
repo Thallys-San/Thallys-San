@@ -62,14 +62,56 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
 
 ### 🤖 Linguagens
 
-<img
-    align="left"
-    alt="C++"
-    title="C++"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
+<p align="left">
+    <!-- C -->
+    <img 
+        alt="C" 
+        title="C" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    />
+    <!-- C++ -->
+    <img 
+        alt="C++" 
+        title="C++" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    />
+    <!-- Java -->
+    <img 
+        alt="Java" 
+        title="Java" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <!-- JavaFX -->
+    <img 
+        alt="JavaFX" 
+        title="JavaFX" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://upload.wikimedia.org/wikipedia/commons/6/60/JavaFX_Logo.png"
+    />
+    <!-- SQL -->
+    <img 
+        alt="SQL" 
+        title="SQL" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    />
+    <!-- SQL Server -->
+    <img 
+        alt="SQL Server" 
+        title="SQL Server" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    />
+</p>
 
 <br/>
 <br/>
