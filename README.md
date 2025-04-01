@@ -29,7 +29,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
         />
     </a>
     <!-- Twitter/X -->
-    <a href="https://twitter.com/seu-usuario">
+    <a href="https://twitter.com/Thallys_San">
         <img
             alt="Twitter"
             title="Me siga no Twitter"
@@ -37,7 +37,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
         />
     </a>
     <!-- Instagram -->
-    <a href="https://www.instagram.com/seu-usuario">
+    <a href="https://www.instagram.com/thallys_san">
         <img
             alt="Instagram"
             title="Me siga no Instagram"
@@ -45,7 +45,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
         />
     </a>
     <!-- Discord -->
-    <a href="https://discord.com/users/seu-usuario">
+    <a href="https://discord.com/users/thallys_san">
         <img
             alt="Discord"
             title="Me encontre no Discord"
