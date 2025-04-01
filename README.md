@@ -21,7 +21,7 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
         />
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/seu-usuario">
+    <a href="https://www.linkedin.com/in/thallys-malaquias-85b21b30b">
         <img
             alt="LinkedIn"
             title="Me adicione no LinkedIn"
