@@ -32,10 +32,6 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
             src="https://custom-icon-badges.demolab.com/github/followers/Thallys-San?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
-
-
-<p align="left">
     <a href="https://github.com/Thallys-San?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
@@ -44,6 +40,9 @@ Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualme
         />
     </a>
 </p>
+
+
+
 
 ---
 
