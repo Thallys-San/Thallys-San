@@ -2,7 +2,25 @@
 
 **Desenvolvedor de sistemas**
 
-Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. Atualmente estou cursando desenvolvimento de sistemas no Senai.
+<p style="color: #003366; font-size: 18px;">
+  Me chamo Thallys Malaquias, tenho 16 anos e sou natural de Minas Gerais. 
+  Atualmente estou cursando desenvolvimento de sistemas no Senai.
+</p>
+
+<script>
+  const text = document.querySelector("p");
+  let index = 0;
+  
+  function typeText() {
+    text.innerHTML = text.textContent.slice(0, index++) + "|";
+    if (index <= text.textContent.length) {
+      setTimeout(typeText, 100);
+    }
+  }
+
+  typeText();
+</script>
+
 <p align="left"> 
     <!-- GitHub Seguidores -->
     <a href="https://github.com/Thallys-San?tab=followers">
