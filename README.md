@@ -110,20 +110,3 @@ Olá, sou Thallys Malaquias, desenvolvedor de sistemas. Tenho 17 anos e sou natu
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Thallys-San&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    style="float: left; margin-right: 10px;"
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thallys-San&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    style="float: left;"
-  />
-</div>
-</p>
